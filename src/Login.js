@@ -2,8 +2,9 @@ import React from 'react'
 
 const Login = () => {
     return (
-        <div>
-            <h1>Login</h1>
+        <div className="container">
+            <h1>github user</h1>
+            <button className='btn'>login</button>
         </div>
     )
 }
