@@ -9,4 +9,3 @@ const User = () => {
 }
 
 export default User
-user
